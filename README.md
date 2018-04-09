@@ -23,4 +23,24 @@ IDEJA:
   -> Analiza praga sustava
   -> Hoce to bit web sucelje, neki servis, java applet, sto god
   -> moderno, centralizirana baza podataka, u koju ce se spremat ti tresholdi itd
-  
+ 
+ 
+_______________VJEZBE3_____________________ 
+
+kljucni datumi, interni datumi zbog scruma
+objasniti sto je razina praga
+ne pisati opcenito -> razjasniti
+izrazavat se tehnicki
+tko stavlja u to do, koje kartice idu gdje
+odrediti sto ide u to do, doing i done, dal ce netko provjeravati done
+
+alati tehnike za komunikaciju, razvoj, podjela posla i odgovornosti...
+
+zadaci - mkanuti eclipse
+	- tu idu konkretni zadaci koje bi netko trebao napraviti
+
+template izvjesca za cijeli tim
+
+_______________________________________
+
+csv i arff formati metrika
