@@ -44,3 +44,18 @@ template izvjesca za cijeli tim
 _______________________________________
 
 csv i arff formati metrika
+
+
+
++9.4.2018.
++Specifikacija zahtjeva komentari
++- Ucitavanje iz excela MOZE biti jedan unos podataka, da bimo izracunali prag moramo imat veci unos podataka (1 USE CASE)
++- vise razlicitih analiza, mogu se izracunati jedni tresholdovi sa drugima 
++- format ulaznih podataka .arff ili jos .csv
++- navesti zahtjeve: zahtjev br 1 -> unos podataka, zahtjev br 2 -> ....
++- objasnit ROC i VARL (bolje)
++- Slika 2. razmisliti kako izracunati postupak VARL-a
++- Slika 2. nejasno sta se usporedjuje i kako (bolje objasniti)
++- Razmisliti o prikazu podataka!
++- Ubacit poglavlje ZAHTJEVI (GUI jedan od zahjeva, baza podataka jedan od zahtjeva, itd itd itd)
++- ČIM PRIJE POCET IMPLEMENTACIJU!
